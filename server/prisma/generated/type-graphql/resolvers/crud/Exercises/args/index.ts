@@ -1,0 +1,12 @@
+export { AggregateExercisesArgs } from "./AggregateExercisesArgs";
+export { CreateExercisesArgs } from "./CreateExercisesArgs";
+export { CreateManyExercisesArgs } from "./CreateManyExercisesArgs";
+export { DeleteExercisesArgs } from "./DeleteExercisesArgs";
+export { DeleteManyExercisesArgs } from "./DeleteManyExercisesArgs";
+export { FindFirstExercisesArgs } from "./FindFirstExercisesArgs";
+export { FindManyExercisesArgs } from "./FindManyExercisesArgs";
+export { FindUniqueExercisesArgs } from "./FindUniqueExercisesArgs";
+export { GroupByExercisesArgs } from "./GroupByExercisesArgs";
+export { UpdateExercisesArgs } from "./UpdateExercisesArgs";
+export { UpdateManyExercisesArgs } from "./UpdateManyExercisesArgs";
+export { UpsertExercisesArgs } from "./UpsertExercisesArgs";
